@@ -29,21 +29,19 @@ A step-by-step layout for standing up your local database sandbox and preparing 
 
 The environment initializes through a four-phase local pipeline:
 
-├── 💻 1. Download & Install (Host Server)
-│   ├── ⚙️ Download official MySQL Installer (Community Server)
-│   └── 🛠️ Provision MySQL Workbench using default developer configurations
-│
-├── 📥 2. Target Dataset Acquisition
-│   ├── 🌐 Navigate to: https://github.com
-│   └── 📦 Download repository ZIP file and unpack core scripts locally
-│
-├── ⚡ 3. Schema Initialization
-│   ├── 🔌 Open MySQL Workbench and connect to local instance
-│   ├── 📂 File -> Open SQL Script -> Select 'Beginner - Parks_and_Rec_Create_db.sql'
-│   └── ⚡ Execute script (Lightning Bolt icon) to instantiate tables
-│
-└── 🔄 4. Data Sprints Refresh
-    └── 📊 Retain 'layoffs.csv' from the directory for upcoming cleaning modules
+* **💻 1. Download & Install (Host Server)**
+  * ├── ⚙️ Download official MySQL Installer (Community Server)
+  * └── 🛠️ Provision MySQL Workbench using default developer configurations
+* **📥 2. Target Dataset Acquisition**
+  * ├── 🌐 Navigate to: https://github.com
+  * └── 📦 Download repository ZIP file and unpack core scripts locally
+* **⚡ 3. Schema Initialization**
+  * ├── 🔌 Open MySQL Workbench and connect to local instance
+  * ├── 📂 File -> Open SQL Script -> Select 'Beginner - Parks_and_Rec_Create_db.sql'
+  * └── ⚡ Execute script (Lightning Bolt icon) to instantiate tables
+* **🔄 4. Data Sprints Refresh**
+  * └── 📊 Retain 'layoffs.csv' from the directory for upcoming cleaning modules
+
 
 ### ⚙️ Technologies & Environment Stack
 
