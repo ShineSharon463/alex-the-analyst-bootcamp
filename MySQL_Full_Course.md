@@ -25,4 +25,4 @@ While video tutorials are incredible for visual learning, programming requires q
 	• Go to File -> Open SQL Script -> Select Beginner - Parks_and_Rec_Create_db.sql.
 	• Click the Lightning Bolt icon to execute the script. This builds your parks_and_recreation database schema populated with standard testing tables.
 4. Data Refresh: For later projects in the course, use the layoffs.csv file from the same directory for data cleaning and exploratory data analysis (EDA) sprints.
-I have integrated your existing setup notes right after the new introduction. What is the
+I have integrated your existing setup notes right after the new introduction. 
