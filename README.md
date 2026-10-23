@@ -1,4 +1,4 @@
-🎓 Alex the Analyst: Data Analyst Bootcamp Directory
+**🎓 Alex the Analyst: Data Analyst Bootcamp Directory**
 
 Welcome to my central repository tracking my journey through the Alex the Analyst Data Analyst Bootcamp! This repository serves as a master compilation of my daily notes, optimized code snippets, architectural conceptual maps, and practical projects across the entire curriculum.
 
