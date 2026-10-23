@@ -33,7 +33,7 @@ The environment initializes through a four-phase local pipeline:
   * ├── ⚙️ Download official MySQL Installer (Community Server)
   * └── 🛠️ Provision MySQL Workbench using default developer configurations
 * **📥 2. Target Dataset Acquisition**
-  * ├── 🌐 Navigate to: https://github.com
+  * ├── 🌐 Navigate to: [https://github.com](https://github.com/AlexTheAnalyst/MySQL-YouTube-Series)
   * └── 📦 Download repository ZIP file and unpack core scripts locally
 * **⚡ 3. Schema Initialization**
   * ├── 🔌 Open MySQL Workbench and connect to local instance
