@@ -74,16 +74,3 @@ Below is the master curriculum log for this file. As we progress through the cou
 
 Before starting out make sure you have parks_and_recreation in your SCHEMAS which is on your lefthand side.
 To run to your SQL quereies hit on the ⚡ button which is on the top.
-## 👆🏼 SELECT Statement: It specifies what you want to see in a table.
-SELECT * 
-FROM parks_and_recreation.employee_demographics;
-// '*' it simply represents everything that is inside the table(all rows&columns) that you've selected that is employee_demographics for the above example. 
-// FROM parks_and_recreation.employee_demographics; Here FROM is like from which datatbasename.tablename(syntax for FROM)
-
-SELECT * 
-FROM parks_and_recreation.employee_salary;
-
-
-
-## 🤷🏼‍♀️ WHERE Statement:
-# alex-the-analyst-bootcamp
